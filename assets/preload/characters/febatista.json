@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Feberes_Idle"
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Feberes_Right"
+		},
+		{
+			"offsets": [
+				-8,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Feberes_Down"
+		},
+		{
+			"offsets": [
+				-6,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Feberes_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Feberes_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Feberes",
+	"position": [
+		-150,
+		40
+	],
+	"healthicon": "feberes",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		179,
+		83
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
