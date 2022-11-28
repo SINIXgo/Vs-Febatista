@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "GANHEMO!! >:D"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Caraca ce e bom fi"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep :)"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so nao entendo essa sua voz de esqulo"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "EI! >:["
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "kk foi mal. "
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "de novo!! :]"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok :)"
+		}
+	]
+}
