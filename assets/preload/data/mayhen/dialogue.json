@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "febatista",
+			"speed": 0.07,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nao e possivel"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "como vc ganha em todo rap??"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":]"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ta ne mas dessa vez vam pro uma musica facil. ok?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok :)"
+		}
+	]
+}
