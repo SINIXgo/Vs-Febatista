@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah foi facil uai :]"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap :]"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "vamo pra ultima musica >:)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok >:)"
+		}
+	]
+}
