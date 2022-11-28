@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BFF MENU IDLE",
+	"image": "BFF MENU CHARACTER",
+	"position": [
+		-143,
+		204
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "BFF MENU IDLE"
+}

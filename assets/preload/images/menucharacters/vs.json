@@ -1,0 +1,11 @@
+{
+	"idle_anim": "sketch1668970511332",
+	"image": "MENU_VS",
+	"position": [
+		529,
+		160
+	],
+	"flipX": false,
+	"scale": 0.35,
+	"confirm_anim": "sketch1668970511332"
+}

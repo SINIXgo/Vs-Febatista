@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="MENU_VS.png" width="499" height="444">
+  <SubTexture name="sketch1668970511332" x="0" y="0"  width="499" height="444" frameX="-114" frameY="-138" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>

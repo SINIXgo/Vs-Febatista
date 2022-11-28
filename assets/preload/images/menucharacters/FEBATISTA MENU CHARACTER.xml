@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="FEBATISTA MENU CHARACTER.png" width="2203" height="642">
+  <SubTexture name="FEBATISTA MENU IDLE0001" x="0" y="0"  width="553" height="626" frameX="-60" frameY="-94" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0003" x="553" y="0"  width="551" height="632" frameX="-56" frameY="-88" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0004" x="1104" y="0"  width="550" height="638" frameX="-56" frameY="-82" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE00010" x="1654" y="0"  width="549" height="642" frameX="-56" frameY="-78" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0002" x="0" y="0"  width="553" height="626" frameX="-60" frameY="-94" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0005" x="1654" y="0"  width="549" height="642" frameX="-56" frameY="-78" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0006" x="1654" y="0"  width="549" height="642" frameX="-56" frameY="-78" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0007" x="1654" y="0"  width="549" height="642" frameX="-56" frameY="-78" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0008" x="1654" y="0"  width="549" height="642" frameX="-56" frameY="-78" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="FEBATISTA MENU IDLE0009" x="1654" y="0"  width="549" height="642" frameX="-56" frameY="-78" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>
