@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Feberes",
+			"feberes",
+			[
+				255,
+				200,
+				100
+			]
+		],
+		[
+			"Canada",
+			"feberes",
+			[
+				255,
+				200,
+				100
+			]
+		],
+		[
+			"Mayhen",
+			"feberes",
+			[
+				255,
+				200,
+				100
+			]
+		],
+		[
+			"Batata",
+			"feberes",
+			[
+				255,
+				200,
+				100
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "escritorio",
+	"difficulties": "",
+	"weekCharacters": [
+		"febatista",
+		"bff",
+		"vs"
+	],
+	"storyName": "FEBERES",
+	"weekName": "Febatista",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}
