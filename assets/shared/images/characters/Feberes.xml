@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Feberes.png" width="3723" height="1481">
+  <SubTexture name="Feberes_Down0001" x="0" y="0"  width="498" height="673" frameX="-73" frameY="-47" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down00010" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0001" x="995" y="0"  width="445" height="710" frameX="-124" frameY="-10" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0002" x="1440" y="0"  width="446" height="713" frameX="-128" frameY="-7" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0001" x="1886" y="0"  width="468" height="713" frameX="-43" frameY="-7" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right00010" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0003" x="2833" y="0"  width="443" height="716" frameX="-131" frameY="-4" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle00010" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left00010" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0001" x="542" y="710"  width="546" height="720" frameX="-89" frameY="-0" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Up0001" x="1088" y="713"  width="435" height="768" frameX="-113" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up00010" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Down0002" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0003" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0004" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0005" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0006" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0007" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0008" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Down0009" x="498" y="0"  width="497" height="681" frameX="-69" frameY="-38" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0004" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0005" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0006" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0007" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0008" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Idle0009" x="3276" y="0"  width="447" height="718" frameX="-133" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0002" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0003" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0004" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0005" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0006" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0007" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0008" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Left0009" x="0" y="681"  width="542" height="718" frameX="-84" frameY="-2" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0002" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0003" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0004" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0005" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0006" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0007" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0008" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Right0009" x="2354" y="0"  width="479" height="714" frameX="-43" frameY="-6" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Feberes_Up0002" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0003" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0004" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0005" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0006" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0007" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0008" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+  <SubTexture name="Feberes_Up0009" x="1523" y="713"  width="450" height="768" frameX="-103" frameY="-50" frameWidth="720" frameHeight="820"/>
+</TextureAtlas>
