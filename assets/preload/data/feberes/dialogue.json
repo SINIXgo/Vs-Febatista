@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop bab skyri baaaaap"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.115,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oxi?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ">:)"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "como vc tentrou aqui?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "entrando uai :]"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.115,
+			"portrait": "Febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oi?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "entao tu quer uma batalha de rap nao e?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah! :)"
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hummm......."
+		},
+		{
+			"sound": "febatista",
+			"speed": 0.05,
+			"portrait": "febatista",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok entao :)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hehe boy >:)"
+		}
+	]
+}
